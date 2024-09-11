@@ -3,6 +3,10 @@
 
 This project focuses on classifying cancer biomarkers using various machine learning algorithms, including Support Vector Machine (SVM), Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes. The goal is to accurately predict the type of biomarker based on a set of molecular properties such as molecular weight, stability, specificity, and various cancer marker levels.
 
+# Special Thanks
+A special thanks to Dr. Krishna Mohan from Srujana Cancer Hospitals, Hyderabad for his invaluable guidance and expertise in the field of cancer biomarkers, which greatly contributed to the development of this project.
+
+
 Note: This project is still a work in progress, and more features and optimizations are planned.
 
 # Table of Contents
